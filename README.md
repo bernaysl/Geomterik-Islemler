@@ -1,4 +1,4 @@
-# Geomterik-Islemler
+# Geomterik Islemler
 
 Bu projede gorsel uzerinde  
 -Kaydirma  
